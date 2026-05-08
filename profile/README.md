@@ -43,9 +43,6 @@
   <a href="https://discord.gg/your-invite">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" alt="Discord">
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/X/x3.svg" alt="X (Twitter)">
-  </a>
   <a href="mailto:your-email@example.com">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Gmail">
   </a>
