@@ -16,13 +16,13 @@
 
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
-  •
+  <span style="vertical-align: middle;">•</span>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" alt="TypeScript">
-  •
+  <span style="vertical-align: middle;">•</span>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React">
-  •
+  <span style="vertical-align: middle;">•</span>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Docker">
-  •
+  <span style="vertical-align: middle;">•</span>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Figma">
 </p>
 
