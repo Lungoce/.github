@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="channels4_banner (2).jpg" style="border-radius: 20px;">
+  <img src="banner.png">
 </p>
