@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="banner.png" 
-       alt="Project Banner" 
-       style="border-radius: 20px; 
-              box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); 
-              transition: transform 0.3s ease-in-out;" 
-       onmouseover="this.style.transform='scale(1.02)'" 
-       onmouseout="this.style.transform='scale(1)'">
+  <img src="banner.png">
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-org">
+    <img src="https://img.shields.io/github/stars/Lungoce?style=for-the-badge&logo=github&color=181717&labelColor=0D1117" alt="Stars">
+  </a>
+  <a href="https://github.com/your-org">
+    <img src="https://img.shields.io/github/followers/Lungoce?style=for-the-badge&logo=github&color=181717&labelColor=0D1117" alt="Followers">
+  </a>
+  <a href="https://github.com/your-org">
+    <img src="https://img.shields.io/badge/Lungoce?style=for-the-badge&logo=github&labelColor=0D1117" alt="Repos">
+  </a>
 </p>
