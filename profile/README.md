@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" alt="TypeScript">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Docker">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Figma">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg" alt="Rust">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cpp/cpp3.svg" alt="C++">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" alt="C">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Assembly/assembly3.svg" alt="Assembly">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux">
 </p>
 
 <p align="center">
-  <i>✦ Building the future, one commit at a time ✦</i>
+  <i>✦ Crafting kernels, managing memory, and chasing segfaults ✦</i>
 </p>
