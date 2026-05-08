@@ -6,9 +6,6 @@
   <a href="https://github.com/Lungoce/.github">
     <img src="https://m3-markdown-badges.vercel.app/stars/1/1/Lungoce/.github" alt="Stars">
   </a>
-  <a href="https://github.com/orgs/Lungoce/followers">
-    <img src="https://m3-markdown-badges.vercel.app/stars/1/3/Lungoce/Lungoce" alt="Followers">
-  </a>
   <a href="https://github.com/shekolon">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Repos">
   </a>
