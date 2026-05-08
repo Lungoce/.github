@@ -11,7 +11,7 @@
 <h3 align="center">📊 Статистика организации</h3>
 <p align="center">
   <a href="https://github.com/Lungoce">
-    <img src="https://img.shields.io/github/stars/Lungoce?style=flat-square&logo=github&logoColor=D3E3FD&labelColor=1B1B1F&color=004A77" alt="Stars">
+    <img src="https://m3-markdown-badges.vercel.app/stars/8/2/Lungoce/Lungoce">
   </a>
   <a href="https://github.com/Lungoce">
     <img src="https://img.shields.io/github/followers/Lungoce?style=flat-square&logo=github&logoColor=D3E3FD&labelColor=1B1B1F&color=004A77" alt="Followers">
