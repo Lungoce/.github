@@ -16,6 +16,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg" alt="Rust">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" alt="C++">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" alt="C">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg" alt="C">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg" alt="C">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Linux">
 </p>
 
